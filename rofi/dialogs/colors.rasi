@@ -1,0 +1,21 @@
+/* Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com> */
+/* Everyone is permitted to copy and distribute copies of this file under GNU-GPL3 */
+
+/* Color-Scheme */
+
+/* how to add transparency to colors */ 
+    /* #rrggbbaa */
+
+* {
+    BLAK:  #000000;
+    LBDR:  #9DA5B4; /* add transparency BG */
+    BG:    #12005660;
+    BGA:   #120056A0; /*black (light)*/
+    FG:    #FFFFFF; /*little white*/
+    BDR:   #FFFFFF; /*blue (light)*/
+    SEL:   #A41BC8;
+    UGT:   #E06B74ff; /*red*/
+	IMG:   #E5C07Aff; /*yellow*/
+	ON:    #98C379ff; /*green*/
+	OFF:   #E06B74ff; /*red*/
+}
